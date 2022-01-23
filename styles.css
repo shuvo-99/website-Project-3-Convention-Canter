@@ -1,0 +1,19 @@
+.box {
+  background-color: rgba(244, 150, 210, 0.205);
+  width: 150px;
+  align-content: center;
+  border-radius: 20px;
+}
+
+.center {
+  margin: auto;
+
+  padding: 5px;
+}
+
+.box-3 {
+  background-color: white;
+  width: 150px;
+  align-content: center;
+  border-radius: 20px;
+}
