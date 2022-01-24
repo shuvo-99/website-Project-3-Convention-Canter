@@ -21,3 +21,7 @@
 .apple-img {
   width: 150px;
 }
+
+a:link {
+  text-decoration: none;
+}
